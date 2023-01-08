@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @g0tmatata
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on python programming
-- 📫 How to reach me @g0tmatata
+- 💞️ I’m looking to collaborate on js programming
+- 📫 How to reach me @kiptala
 
 //
 intellij crack = https://www.bicfic.com/intellij-idea-crack-free-is-aen/

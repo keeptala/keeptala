@@ -3,7 +3,12 @@
 - 💞️ I’m looking to collaborate on js programming
 - 📫 How to reach me @kiptala
 - a dollar a day save kiptala per day
-- https://www.youtube.com/watch?v=6Kne_asOaiE discow company
+- https://www.youtube.com/watch?v=6Kne_asOaiE discow company advert handbraekes song
+- 
+
+
+
+
 //
 intellij crack = https://www.bicfic.com/intellij-idea-crack-free-is-aen/
 <!---

@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 💞️ I’m looking to collaborate on js programming
 - 📫 How to reach me @kiptala
-
+- a dollar a day save kiptala per day
 //
 intellij crack = https://www.bicfic.com/intellij-idea-crack-free-is-aen/
 <!---

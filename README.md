@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @g0tmatata
+- 👋 Hi, I’m @faq
 - 👀 I’m interested in web development
 - 💞️ I’m looking to collaborate on js programming
-- 📫 How to reach me @kiptala
-- a dollar a day save kiptala per day
+- 📫 How to reach me @faq
+- a dollar a day save kiptala a day
 - https://www.youtube.com/watch?v=6Kne_asOaiE discow company advert handbraekes song
 - 
 

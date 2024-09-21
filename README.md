@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @faq
-- 📫 How to reach me @faq
+- 👋 Hi, I’m @bullrock
+- 📫 How to reach me @poor3k
 
 

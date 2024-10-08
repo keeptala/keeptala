@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @bullrock
-- 📫 How to reach me @poor3k
+- 👋 Hi, I’m ceo of bullrock
+- 📫 How to reach me @bullrock_
 
 
 echo "# pk1" >> README.md

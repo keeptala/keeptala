@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ceo of bullrock
+- 👋 Hi, I’m ceo of bullrock & gemach
 - 📫 How to reach me @bullrock_
 
 

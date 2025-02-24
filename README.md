@@ -1,7 +1,3 @@
-- 👋 Hi, I’m ceo of bullrock & gemach
-- 📫 How to reach me @bullrock_
-
-
 echo "# pk1" >> README.md
 git init
 git add README.md
